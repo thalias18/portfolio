@@ -111,7 +111,6 @@ a {
     height: 400px;
     display: inline-flex;
     margin: 0 10px 50px 10px;
-    border-radius: 5px;
 }
 
 .project-tile:hover {
@@ -162,6 +161,10 @@ a {
 
     #welcome-section {
         text-align: center;
+    }
+    
+    .project-tile:hover {
+        transform: none;
     }
 
     .contact-tile {

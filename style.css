@@ -42,6 +42,10 @@ h3 {
     padding-top: 25px;
 }
 
+#random-quote {
+    padding-top: 15px;
+}
+
 #navbar {
     display: block;
     background: var(--main-blue-dark);
@@ -162,7 +166,7 @@ a {
     #welcome-section {
         text-align: center;
     }
-    
+
     .project-tile:hover {
         transform: none;
     }

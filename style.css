@@ -42,7 +42,7 @@ h3 {
     padding-top: 25px;
 }
 
-#random-quote {
+#random-quote, #game {
     padding-top: 15px;
 }
 
@@ -111,8 +111,8 @@ a {
 
 .project-tile {
     border: solid 2px var(--main-blue-dark);
-    width: 300px;
-    height: 400px;
+    width: 350px;
+    height: 450px;
     display: inline-flex;
     margin: 0 10px 50px 10px;
 }

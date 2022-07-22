@@ -105,7 +105,7 @@ a {
 #projects {
     background: var(--main-yellow);
     text-align: center;
-    padding: 50px;
+    padding: 50px 0;
     color: var(--main-blue-dark);
 
 }
@@ -115,7 +115,7 @@ a {
     width: 300px;
     height: 400px;
     display: inline-flex;
-    margin: 0 10px 50px 10px;
+    margin: 0 20px 50px 20px;
 }
 
 .project-tile:hover {
